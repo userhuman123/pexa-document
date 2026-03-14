@@ -38,5 +38,3 @@
     'Mixed Breed',
     'Unknown',
 ]
-
-export default catBreeds;
