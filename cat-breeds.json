@@ -1,5 +1,4 @@
 [
-    // Popular
     'Persian',
     'Maine Coon',
     'Ragdoll',
@@ -10,22 +9,16 @@
     'Scottish Fold',
     'Sphynx',
     'Birman',
-
-    // Longhair
     'Himalayan',
     'Norwegian Forest Cat',
     'Turkish Angora',
     'Balinese',
     'Ragamuffin',
-
-    // Shorthair
     'American Shorthair',
     'Oriental Shorthair',
     'Russian Blue',
     'Chartreux',
     'Egyptian Mau',
-
-    // Exotic / Rare
     'Savannah',
     'Munchkin',
     'Bombay',
@@ -33,8 +26,6 @@
     'Cornish Rex',
     'Ocicat',
     'Singapura',
-
-    // Other
     'Mixed Breed',
     'Unknown',
 ]
